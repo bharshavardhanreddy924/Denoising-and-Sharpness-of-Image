@@ -1,0 +1,19 @@
+# Deep Learning and ML Framework
+torch==2.1.0
+torchvision==0.16.0
+# Image Processing
+opencv-python==4.8.1.78
+pillow==10.1.0
+numpy==1.24.3
+# Web Application
+streamlit==1.29.0
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+pandas==2.0.2
+# PDF Generation
+reportlab==4.0.7
+# Logging and Progress
+rich==13.5.2
+# Model Metrics
+scikit-learn==1.2.2
